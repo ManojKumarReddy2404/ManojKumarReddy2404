@@ -17,7 +17,8 @@ I write about **Cloud, DevOps, and AI** on [![Medium](https://img.shields.io/bad
 
 Here are some of my featured posts:
 
-- [Deploying a High-Availability One-Tier AWS Architecture with Terraform and Jenkins](https://medium.com/@manojreddy2404/deploying-a-high-availability-one-tier-aws-architecture-with-terraform-and-jenkins-a52a07e36333)  
+- [Deploying a High-Availability One-Tier AWS Architecture with Terraform and Jenkins](https://medium.com/@manojreddy2404/deploying-a-high-availability-one-tier-aws-architecture-with-terraform-and-jenkins-a52a07e36333)
+- [Building and Configuring Virtual Private Clouds (VPC) in AWS](https://medium.com/@manojreddy2404/building-and-configuring-virtual-private-clouds-vpc-in-aws-ff9d197c4988) 
 - [Two-Tier and Three-Tier AWS Architectures with Terraform](https://medium.com/@manojreddy2404/deploying-a-two-tier-architecture-on-aws-using-terraform-7626857adb42)  
 - [Amazon Lex Chatbot with Lambda and DynamoDB](https://medium.com/@manojreddy2404/ai-ml-chatbot-development-using-aws-lambda-9b258bed8d44)  
 - [CI/CD Pipeline for Automated Deployments](https://medium.com/@manojreddy2404/create-continuous-delivery-pipeline-877462befc16)  
