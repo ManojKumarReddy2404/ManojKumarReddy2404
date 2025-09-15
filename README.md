@@ -10,7 +10,6 @@ Here are some of my featured posts:
 - [CI/CD Pipeline for Automated Deployments](https://medium.com/@manojreddy2404/https://medium.com/@manojreddy2404/create-continuous-delivery-pipeline-877462befc16)
 - [3 tier web application architecture with aws](https://medium.com/@manojreddy2404/building-a-3-tier-web-application-architecture-with-aws-afe3e57d753c)
 - [Building a ChatGPT-Powered Customer Support Bot with Node.js and Postman](https://medium.com/@manojreddy2404/building-a-chatgpt-powered-customer-support-bot-with-node-js-and-postman-e0ab4e52edf1)
-**ManojKumarReddy2404/ManojKumarReddy2404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
