@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-## 📝 Articles & Blogs
+  Articles & Blogs
 I write about Cloud, DevOps, and AI on [Medium](https://medium.com/@manojreddy2404).  
 Here are some of my featured posts:
 
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me:  
 - Email: [manojreddy2404@gmail.com](mailto:manojreddy2404@gmail.com)  
-- LinkedIn: [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/YOUR-LINKEDIN)  
+- LinkedIn: [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/manojkumarreddy2404)  
 - Medium: [medium.com/@manojreddy2404](https://medium.com/@manojreddy2404)  
 
 😄 Pronouns: He/Him  
