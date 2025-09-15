@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi Guyszzz 👋
 
-  Articles & Blogs
+Articles & Blogs
 I write about Cloud, DevOps, and AI on [Medium](https://medium.com/@manojreddy2404).  
 Here are some of my featured posts:
 
