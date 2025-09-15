@@ -6,9 +6,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
-AWS SAA Certified • Networking Basics (Cisco NetAcad) • Startup Cloud Intern @ Symbiotes.ai  
+AWS SAA Certified • Networking Basics (Cisco NetAcad) • Startup Intern @ Symbiotes.ai  
 
 ---
 
@@ -38,7 +38,7 @@ Here are some of my featured posts:
 
 👯 I’m looking to collaborate on ...  
 - Open-source projects in Cloud, DevOps, and AI/ML  
-- Startups building scalable infrastructure or robotics systems  
+- Startups building scalable infrastructure 
 
 🤔 I’m looking for help with ...  
 - Contributing to Supabase / CNCF projects  
