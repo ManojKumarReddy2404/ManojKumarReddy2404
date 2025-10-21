@@ -34,14 +34,13 @@ Here are some of my featured posts:
 
 🌱 I’m currently learning ...  
 - Edge networking, load balancing, and observability  
-- Kubernetes (EKS) and Go programming  
+- Kubernetes (EKS)
 
 👯 I’m looking to collaborate on ...  
 - Open-source projects in Cloud, DevOps, and AI/ML  
 - Startups building scalable infrastructure 
 
 🤔 I’m looking for help with ...  
-- Contributing to Supabase / CNCF projects  
 - Improving my open-source activity and GitHub portfolio  
 
 💬 Ask me about ...  
@@ -54,4 +53,4 @@ Here are some of my featured posts:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manojkumarreddy2404)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@manojreddy2404)   
 
-⚡ Fun fact: I started in Mechanical Engineering, but cloud and automation pulled me into tech which leads me to Digital Twin Technology. 🚀  
+⚡I started in Mechanical Engineering, but cloud and automation pulled me into tech which leads me to Digital Twin Technology. 🚀  
