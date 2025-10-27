@@ -8,7 +8,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 AWS SAA Certified • Networking, Python Essentials 1 (Cisco NetAcad) • Startup Intern @ Symbiotes.ai 
-Cloud • MATLAB  • Mechanical • • • • 
+Cloud • MATLAB  • Mechanical • 
 
 ---
 
