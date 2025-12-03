@@ -27,28 +27,6 @@ Here are some of my featured posts:
 
 ---
 
-## 🔭 About Me  
-
-🔭 I’m currently working on ...  
-- Cloud infrastructure projects with AWS and Terraform  
-- Full-stack web apps and AI agents (from my internship at Symbiotes.ai)  
-
-🌱 I’m currently learning ...  
-- Edge networking, load balancing, and observability  
-- Kubernetes (EKS)
-
-👯 I’m looking to collaborate on ...  
-- Open-source projects in Cloud, DevOps, and AI/ML  
-- Startups building scalable infrastructure 
-
-🤔 I’m looking for help with ...  
-- Improving my open-source activity and GitHub portfolio  
-
-💬 Ask me about ...  
-- AWS (EC2, VPC, RDS, S3, IAM, Lambda, Route53)  
-- Terraform, Jenkins CI/CD, and Docker/Kubernetes basics  
-- How to get started with cloud projects as a fresher  
-
 📫 How to reach me:  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojreddy2404@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manojkumarreddy2404)  
