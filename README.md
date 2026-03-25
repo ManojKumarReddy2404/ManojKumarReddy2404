@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Manoj Kumar Reddy  
   
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-MatLab
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-
+MatLab
 AWS SAA Certified • Networking, Python Essentials 1 (Cisco NetAcad) • Startup Intern @ Symbiotes.ai 
 Cloud • MATLAB  • Simulink • Mechanical • 
 
