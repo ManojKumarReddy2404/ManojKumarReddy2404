@@ -1,32 +1,36 @@
-# 👋 Hi, I'm Manoj Kumar Reddy  
-  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-MatLab
-AWS SAA Certified • Networking, Python Essentials 1 (Cisco NetAcad) • Startup Intern @ Symbiotes.ai 
-Cloud • MATLAB  • Simulink • Mechanical • 
+# Hi, I'm Manoj
+
+Mechanical Engineering graduate moving towards **Robotics, Mechatronics and Cyber-Physical Systems**.
+Interested in **simulation, control systems and Digital Twin concepts**.
 
 ---
 
-## 📝 Articles & Blogs  
-I write about **Cloud, DevOps, and AI** on [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@manojreddy2404).  
+## Skills
 
-Here are some of my featured posts:
-
-- [Deploying a High-Availability One-Tier AWS Architecture with Terraform and Jenkins](https://medium.com/@manojreddy2404/deploying-a-high-availability-one-tier-aws-architecture-with-terraform-and-jenkins-a52a07e36333)
-- [Building and Configuring Virtual Private Clouds (VPC) in AWS](https://medium.com/@manojreddy2404/building-and-configuring-virtual-private-clouds-vpc-in-aws-ff9d197c4988) 
-- [Two-Tier and Three-Tier AWS Architectures with Terraform](https://medium.com/@manojreddy2404/deploying-a-two-tier-architecture-on-aws-using-terraform-7626857adb42)  
-- [Amazon Lex Chatbot with Lambda and DynamoDB](https://medium.com/@manojreddy2404/ai-ml-chatbot-development-using-aws-lambda-9b258bed8d44)  
-- [CI/CD Pipeline for Automated Deployments](https://medium.com/@manojreddy2404/create-continuous-delivery-pipeline-877462befc16)  
-- [3-Tier Web Application Architecture with AWS](https://medium.com/@manojreddy2404/building-a-3-tier-web-application-architecture-with-aws-afe3e57d753c)  
-- [Building a ChatGPT-Powered Customer Support Bot with Node.js and Postman](https://medium.com/@manojreddy2404/building-a-chatgpt-powered-customer-support-bot-with-node-js-and-postman-e0ab4e52edf1)  
+MATLAB • Simulink • Python • Linux • AWS
 
 ---
 
-📫 How to reach me:  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojreddy2404@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manojkumarreddy2404)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@manojreddy2404)   
+## Focus
 
-⚡ I started in Mechanical Engineering, but cloud and automation pulled me into tech which leads me to Digital Twin Technology. 🚀  
+* Control systems
+* Simulation and system modeling
+* Cyber-Physical Systems
+
+---
+
+## Writing
+
+I share what I learn here:
+https://medium.com/@manojreddy2404
+
+---
+
+## Contact
+
+Email: [manojreddy2404@gmail.com](mailto:manojreddy2404@gmail.com)
+LinkedIn: https://linkedin.com/in/manojkumarreddy2404
+
+---
+
+Building step by step towards working on real-world systems.
