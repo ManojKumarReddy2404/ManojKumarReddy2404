@@ -3,6 +3,14 @@
 Mechanical Engineering graduate moving towards **Robotics, Mechatronics and Cyber-Physical Systems**.
 Interested in **simulation, control systems and Digital Twin concepts**.
 
+## Experience
+
+Software Engineer — Cloud & AI Engineering
+- AWS Infrastructure & DevOps
+- Frontend Development (MVP launches)
+- AI Agents & Automation Tools
+- Experience: Symbiotes Martech Pvt. Ltd. (Apr 2025 – Apr 2026)
+
 ---
 
 ## Skills
